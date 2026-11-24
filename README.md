@@ -1,5 +1,21 @@
 # Analog Data to Analog Signals
 
+**Group Name:** JEOLEE
+
+**Course:** Data and Digital Communications
+
+**Subject Code:** CPE331
+
+**Section:** H2
+
+## Group Members
+
+- John Norbert Tamares
+- Evonie Batiller
+- Richelle Mae Deniega
+- Edrianne Babatuan
+- Dashiell Reed Dinoy
+
 This Python application demonstrates analog modulation techniques: **Amplitude Modulation (AM)**, **Phase Modulation (PM)**, and **Frequency Modulation (FM)**.
 
 It is based on the encoding concepts in Section 5.4 of Stallings, *Data and Computer Communications*, 8th Edition.
